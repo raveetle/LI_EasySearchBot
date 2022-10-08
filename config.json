@@ -1,0 +1,7 @@
+{
+    "email" : "enter your email",
+    "password" : "enter your password",
+    "keywords" : "Engineer",
+    "location" : "India",
+    "driver_path" : "driver/chromedriver.exe"
+}
